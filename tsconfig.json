@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "module": "esnext",
+    "jsx": "react",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "noEmit": true
+  }
+}
